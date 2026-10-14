@@ -1,0 +1,2 @@
+912630880bdb899bc7848305e6633a25273d865c95962d680cad2a0284bc24db  AFlock-Android-1.3.0-universal-signed.apk
+b7b24c40016aad6dff11ce2bda8bae54168535f01c7eb3df366249a62a186bc0  AFlock-Android-1.3.0-Native-Source.zip
